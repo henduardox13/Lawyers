@@ -1,0 +1,4 @@
+0) Framework Version 8 Laravel instalar 
+1) crear una Db -> business
+2) Correr Comando -> php artisan migrate:fresh --seed
+3) Luego Correr Comando -> php artisan serve
